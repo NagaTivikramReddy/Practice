@@ -1,15 +1,6 @@
 
 import sqlite3
 
-###Create tabel
-##connection.execute("DROP TABLE IF EXISTS EMPLOYEE")
-##create_query = """create table EMPLOYEE(name char(20), age int, num1 int, num2 int, operation char(1), result int)"""
-##print(create_query)
-##query_execution = connection.execute(create_query)
-##print("Created table")
-
-
-
 def get_data():
     status = False
     while(status == False):
