@@ -116,8 +116,3 @@ while(temp == 0):
         connection.close()
         print("Connection closed")
     
-
-
-
-
-
