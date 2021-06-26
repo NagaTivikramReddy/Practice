@@ -38,10 +38,6 @@ print(String[s1])
 print(String[s2]) 
 print(String[s3])
 
-
-
-
-##
 ##print(len(line))
 ##print(dir(line))
 ##
