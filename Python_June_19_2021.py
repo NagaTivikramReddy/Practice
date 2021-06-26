@@ -129,24 +129,3 @@ var = "Asia and China are same"
 ##print(output)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
