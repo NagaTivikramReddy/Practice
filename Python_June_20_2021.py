@@ -1,10 +1,3 @@
-## +	One or more occurrences
-## *	Zero or more occurrences
-
-## ^   starts with
-## $   ends with
-
-
 
 # Mongo DB
 ##It is a open source ,Document - oriented database
