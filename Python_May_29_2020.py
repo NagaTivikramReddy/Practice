@@ -165,44 +165,32 @@
 ##aa(1,2)
 
 
-class My_Class:
+# class My_Class:
     
-    var = 10
+#     var = 10
 
-    def __init__(self, a, b):  #Constructoer #instantiatoer #initialize the instance data
+#     def __init__(self, a, b):  #Constructoer #instantiatoer #initialize the instance data
 
-        self.a = a
-        self.b = b
+#         self.a = a
+#         self.b = b
 
-    def add(self):
-        sum = self.a+self.b
-        return sum
+#     def add(self):
+#         sum = self.a+self.b
+#         return sum
 
     
 
-    def __mul(self): #data hiding #encapsulatoion
-        mul = self.a*self.b
-        print(mul)
+#     def __mul(self): #data hiding #encapsulatoion
+#         mul = self.a*self.b
+#         print(mul)
 
-    def add(self): #Overriding
-        print(self.a,self.b)
+#     def add(self): #Overriding
+#         print(self.a,self.b)
 
-    def mul_add(self):
-        mul(a,b)
-        add(a,b)
+#     def mul_add(self):
+#         mul(a,b)
+#         add(a,b)
 
-m = My_Class(10,20)
-m.mul_add()
-
-
-
-
-
-
-
-
-
-
-
-
+# m = My_Class(10,20)
+# m.mul_add()
 
