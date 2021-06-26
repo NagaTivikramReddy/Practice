@@ -22,5 +22,3 @@ my_file = "dhoni_" + str(new_format_time) + ".txt"
 my_obj = open(my_file,"a")
 my_obj.write("Welcome")
 my_obj.close()
-
-
