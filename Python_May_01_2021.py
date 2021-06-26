@@ -1,5 +1,5 @@
 Python:(3.9.2)
-	Open Source
+	Open Source(free)
 	Lot of bultin Libraries
 	Its Unstructured
 	Simple and easy to understand
@@ -14,5 +14,6 @@ Python:(3.9.2)
 	GIL(Global Interpreter lock)
 	Python works in PVM(python virtual machine) -- concept: Private HEAP
 	python converts to bytecode using the concept:cpython(compiled python)
+	Frameworks - Django, Flask...
 
 	
