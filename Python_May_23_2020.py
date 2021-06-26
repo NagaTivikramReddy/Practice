@@ -69,10 +69,3 @@ import sqlite3
 #read
 ##with open("vikram.txt","r") as f:
 ##    content = f.read(5) #read first five characters
-
-
-
-
-
-
-
