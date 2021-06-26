@@ -20,10 +20,6 @@ def Client_Programming():
 
 
 
-
-
 if __name__ == "__main__":
 
     Client_Programming()
-
-    
