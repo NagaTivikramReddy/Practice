@@ -7,6 +7,7 @@ type(cur_time)
 cur_time = datetime.now().replace(microsecond = 0)
 
 print(cur_time)
+
 new_time = cur_time + timedelta(hours = 2)
 
 my_format = "%Y_%b_%d_%H_%M_%S"
