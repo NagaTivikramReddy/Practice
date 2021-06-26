@@ -169,26 +169,3 @@ var = "dhoni","kohli" # This is treated as tuple by python
 print(type(var))
 ## output : <class 'tuple'>
 
-##&&&&&&&&&&&&&&&&&& IMP &&&&&&&&&&&&&&&&&&&&&&&&&&&
-
-# Deep copy and Shallow copy
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
