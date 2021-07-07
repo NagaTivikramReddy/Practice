@@ -1,4 +1,4 @@
-
+#this is DB operation
 import sqlite3
 
 def get_data():
